@@ -8,6 +8,14 @@
 
 ## Demo
 
+The reconstructed 3D points and estimated cameras (position and orientation).
+
+<p align="center">
+  <img src="Demo/PointsAndCameras.png" width="400"/>
+</p>
+
+The reconstructed 3D points visualized in Open3D.
+
 <p align="center">
   <img src="Demo/reconstruction.gif" width="400"/>
 </p>
