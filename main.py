@@ -260,7 +260,7 @@ for i in range(len(pointsFromPerspectives)):
         count = count + 1
 
 # Plot the 3D points and cameras
-fig = plt.figure(5)
+fig = plt.figure(1)
 ax = fig.add_subplot(111, projection='3d')
 ax.scatter(points[:,0], points[:,1], points[:,2], marker='.', s=0.01, color='blue')
 plotCameras(cameras, ax, color='lime', length=2)
