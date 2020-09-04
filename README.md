@@ -2,17 +2,9 @@
 
 ## Examples from dataset
 
-<div class="row">
-  <div class="column">
-    <img src="Demo/DSC_0351.JPG" style="width:20%">
-  </div>
-  <div class="column">
-    <img src="Demo/DSC_0369.JPG" style="width:20%">
-  </div>
-  <div class="column">
-    <img src="Demo/DSC_0391.JPG" style="width:20%">
-  </div>
-</div>
+<p align="center">
+  <img src="D"Demo/DSC_0351.JPG" width="400"/> <img src="D"Demo/DSC_0369.JPG" width="400"/> <img src="D"Demo/DSC_0391.JPG" width="400"/>
+</p>
 
 ## Demo
 
