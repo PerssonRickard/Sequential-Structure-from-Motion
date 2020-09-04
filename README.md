@@ -4,13 +4,13 @@
 
 <div class="row">
   <div class="column">
-    <img src="Demo/DSC_0351.JPG" style="width:100%">
+    <img src="Demo/DSC_0351.JPG" style="width:20%">
   </div>
   <div class="column">
-    <img src="Demo/DSC_0369.JPG" style="width:100%">
+    <img src="Demo/DSC_0369.JPG" style="width:20%">
   </div>
   <div class="column">
-    <img src="Demo/DSC_0391.JPG" style="width:100%">
+    <img src="Demo/DSC_0391.JPG" style="width:20%">
   </div>
 </div>
 
